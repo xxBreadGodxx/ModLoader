@@ -1,2 +1,2 @@
 # ClientDownloader
- This is a simple project meant to further my education on C#, a simple tool to help you find most if not all clients free on VRChat
+This basic project, which serves as a tool to help you identify most, if not all, VRChat clients that are free, keep in mind that this was created to further advance my education in C#. im better than all of you skids
